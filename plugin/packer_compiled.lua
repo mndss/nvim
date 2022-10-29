@@ -149,10 +149,25 @@ _G.packer_plugins = {
     path = "/home/du/.local/share/nvim/site/pack/packer/start/popup.nvim",
     url = "https://github.com/nvim-lua/popup.nvim"
   },
+  ripgrep = {
+    loaded = true,
+    path = "/home/du/.local/share/nvim/site/pack/packer/start/ripgrep",
+    url = "https://github.com/BurntSushi/ripgrep"
+  },
   serenade = {
     loaded = true,
     path = "/home/du/.local/share/nvim/site/pack/packer/start/serenade",
     url = "https://github.com/b4skyx/serenade"
+  },
+  ["telescope-media-files.nvim"] = {
+    loaded = true,
+    path = "/home/du/.local/share/nvim/site/pack/packer/start/telescope-media-files.nvim",
+    url = "https://github.com/nvim-telescope/telescope-media-files.nvim"
+  },
+  ["telescope.nvim"] = {
+    loaded = true,
+    path = "/home/du/.local/share/nvim/site/pack/packer/start/telescope.nvim",
+    url = "https://github.com/nvim-telescope/telescope.nvim"
   },
   ["tokyonight.nvim"] = {
     loaded = true,
